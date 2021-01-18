@@ -161,13 +161,13 @@ npm install plotly.js-basic-dist-min
 
 ### plotly.js cartesian
 
-The `cartesian` partial bundle contains trace modules `scatter`, `bar`, `box`, `heatmap`, `histogram`, `histogram2d`, `histogram2dcontour`, `image`, `pie`, `contour`, `scatterternary` and `violin`.
+The `cartesian` partial bundle contains trace modules `scatter`, `bar`, `box`, `heatmap`, `histogram`, `histogram2d`, `histogram2dcontour`, `image`, `pie`, `contour`, `scatterternary`, `violin` and `calendars`.
 
 #### Stats
 
 | Raw size | Minified size | Minified + gzip size |
 |------|-----------------|------------------------|
-| 3 MB | 1.1 MB | 361.6 kB |
+| 3.3 MB | 1.2 MB | 384.5 kB |
 
 #### CDN links
 
@@ -267,13 +267,13 @@ npm install plotly.js-geo-dist-min
 
 ### plotly.js gl3d
 
-The `gl3d` partial bundle contains trace modules `scatter`, `scatter3d`, `surface`, `mesh3d`, `isosurface`, `volume`, `cone` and `streamtube`.
+The `gl3d` partial bundle contains trace modules `scatter`, `scatter3d`, `surface`, `mesh3d`, `isosurface`, `volume`, `cone`, `streamtube` and `calendars`.
 
 #### Stats
 
 | Raw size | Minified size | Minified + gzip size |
 |------|-----------------|------------------------|
-| 3.7 MB | 1.4 MB | 463.2 kB |
+| 3.9 MB | 1.5 MB | 486 kB |
 
 #### CDN links
 
@@ -320,13 +320,13 @@ npm install plotly.js-gl3d-dist-min
 
 ### plotly.js gl2d
 
-The `gl2d` partial bundle contains trace modules `scatter`, `scattergl`, `splom`, `pointcloud`, `heatmapgl`, `contourgl` and `parcoords`.
+The `gl2d` partial bundle contains trace modules `scatter`, `scattergl`, `splom`, `pointcloud`, `heatmapgl`, `contourgl`, `parcoords` and `calendars`.
 
 #### Stats
 
 | Raw size | Minified size | Minified + gzip size |
 |------|-----------------|------------------------|
-| 3.7 MB | 1.5 MB | 488.6 kB |
+| 4 MB | 1.6 MB | 511.2 kB |
 
 #### CDN links
 
@@ -426,13 +426,13 @@ npm install plotly.js-mapbox-dist-min
 
 ### plotly.js finance
 
-The `finance` partial bundle contains trace modules `scatter`, `bar`, `histogram`, `pie`, `funnelarea`, `ohlc`, `candlestick`, `funnel`, `waterfall` and `indicator`.
+The `finance` partial bundle contains trace modules `scatter`, `bar`, `histogram`, `pie`, `funnelarea`, `ohlc`, `candlestick`, `funnel`, `waterfall`, `indicator` and `calendars`.
 
 #### Stats
 
 | Raw size | Minified size | Minified + gzip size |
 |------|-----------------|------------------------|
-| 2.8 MB | 1 MB | 333.8 kB |
+| 3.1 MB | 1.1 MB | 356.5 kB |
 
 #### CDN links
 
